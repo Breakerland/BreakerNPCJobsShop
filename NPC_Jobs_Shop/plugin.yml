@@ -1,0 +1,11 @@
+api: v1.15.2
+name: NPCJobsShop
+version: "1.0"
+author: PapyConfig
+main: fr.papyconfig.npcjobsshop.NPCJobsShop
+depends: [Vault, Jobs]
+commands:
+  npcjobs:
+    description: Permet de gérer les données du plugin NPCJobsShop
+  npcshop:
+    description: Permet de gérer les npcs du plugin NPCJobsShop
